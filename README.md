@@ -2,7 +2,7 @@
 
 **A free data-analysis workbench for Windows.** Open a spreadsheet, clean it with a preview before every change, explore it, chart it, and turn the result into an interactive report, all on your own computer, without writing code.
 
-*Pronounced "kyud" (the letter Q followed by "UD").*
+
 
 [**Download for Windows**](https://github.com/stanfelixskz/QiUD/releases/latest) · [Install guide](docs/install.md) · [Tutorials](#learn-it-in-an-afternoon) · [FAQ](docs/faq.md)
 
