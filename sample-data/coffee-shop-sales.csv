@@ -1,0 +1,530 @@
+order_id,date,hour,store,product,category,units,unit_price,discount_pct,payment,customer_age,rating,notes
+1093,2026-01-02,10,Harbor,Latte,Drink,1,4.5,0,card,24,,birthday
+1439,2026-01-03,12,Downtown,Muffin,Food,4,3.25,0,mobile,49,,
+1448,2026-01-04,6,Uptown,Latte,Drink,1,4.5,5,card,16,4,
+1034,2026-01-04,10,Harbor,Espresso,Drink,2,3.0,0,card,32,,allergy: nuts
+1325,2026-01-04,13,Uptown,Latte,Drink,1,4.5,10,mobile,45,4,allergy: nuts
+1086,2026-01-04,8,Harbor,Latte,Drink,1,4.5,0,card,28,4,
+1497,2026-01-04,9,Downtown,Latte,Drink,2,4.5,10,cash,20,3,
+1161,2026-01-05,13,Downtown,Cold Brew,Drink,1,4.75,10,card,33,3,
+1143,2026-01-05,9,Harbor,Croissant,Food,2,3.5,0,mobile,31,3,
+1076,2026-01-05,11,Downtown,Bagel,Food,2,3.75,10,card,21,3,
+1427,2026-01-05,11,Airport,Espresso,Drink,4,3.0,0,mobile,44,5,
+1071,2026-01-08,13,Airport,Cold Brew,Drink,1,4.75,0,card,24,4,complaint: cold
+1254,2026-01-08,9,Airport,Latte,Drink,1,4.5,10,,16,4,
+1469,2026-01-08,13,Uptown,Muffin,Food,2,3.25,0,mobile,38,,extra hot
+1192,2026-01-08,6,Uptown,Latte,Drink,1,4.5,0,mobile,37,5,oat milk
+1460,2026-01-08,10,Downtown,Latte,Drink,1,4.5,5,mobile,37,3,extra hot
+1082,2026-01-09,9,Uptown,Cold Brew,Drink,1,4.75,0,card,29,5,birthday
+1386,2026-01-09,6,Uptown,Cold Brew,Drink,1,4.75,0,card,36,5,
+1440,2026-01-09,10,Uptown,Bagel,Food,1,3.75,0,cash,,4,
+1229,2026-01-09,9,Harbor,Latte,Drink,1,4.5,5,card,51,5,birthday
+1014,2026-01-11,9,Harbor,Cappuccino,Drink,1,4.25,0,mobile,24,5,allergy: nuts
+1297,2026-01-11,10,Downtown,Muffin,Food,1,3.25,0,mobile,33,4,oat milk
+1444,2026-01-12,8,Uptown,Bagel,Food,1,3.75,0,card,38,5,loyalty card
+1195,2026-01-12,9,Downtown,Cappuccino,Drink,2,4.25,5,card,31,5,
+1163,2026-01-13,10,Downtown,Muffin,Food,2,3.25,10,card,34,,
+1292,2026-01-14,9,Harbor,Cold Brew,Drink,1,4.75,0,cash,38,1,extra hot
+1030,2026-01-14,10,Uptown,Muffin,Food,2,3.25,5,cash,42,4,
+1152,2026-01-14,11,Harbor,Bagel,Food,1,3.75,5,card,29,,allergy: nuts
+1036,2026-01-14,12,Downtown,Cold Brew,Drink,2,4.75,5,card,47,,to go
+1064,2026-01-15,11,Uptown,Latte,Drink,1,4.5,0,card,16,4,
+1421,2026-01-15,12,Harbor,Espresso,Drink,2,3.0,0,card,,5,
+1209,2026-01-16,7,Harbor,Cold Brew,Drink,1,4.75,15,mobile,34,3,oat milk
+1130,2026-01-16,12,Uptown,Muffin,Food,1,3.25,0,mobile,56,4,loyalty card
+1392,2026-01-16,9,Harbor,Croissant,Food,1,3.5,0,card,52,,
+1107,2026-01-17,7,Uptown,Cold Brew,Drink,1,4.75,10,mobile,38,,
+1092,2026-01-17,13,Downtown,Cold Brew,Drink,1,4.75,0,cash,52,4,extra hot
+1420,2026-01-18,12,Downtown,Cappuccino,Drink,1,4.25,0,cash,30,4,
+1350,2026-01-20,11,Downtown,Latte,Drink,1,4.5,0,mobile,44,,
+1356,2026-01-20,11,Harbor,Cappuccino,Drink,1,4.25,0,card,40,3,complaint: cold
+1039,2026-01-20,13,Harbor,Croissant,Food,4,3.5,0,card,46,5,oat milk
+1131,2026-01-20,13,Uptown,Croissant,Food,2,3.5,0,card,,3,extra hot
+1480,2026-01-21,8,Downtown,Muffin,Food,3,3.25,10,card,34,,
+1337,2026-01-21,10,Airport,Croissant,Food,1,3.5,5,mobile,34,,
+1520,2026-01-21,9,Downtown,Cappuccino,Drink,1,4.25,0,card,18,3,
+1511,2026-01-21,11,Airport,Bagel,Food,4,3.75,0,mobile,30,,loyalty card
+1084,2026-01-22,13,Uptown,Cappuccino,Drink,1,4.25,10,card,34,5,to go
+1387,2026-01-22,7,Downtown,Croissant,Food,1,3.5,0,mobile,36,,allergy: nuts
+1423,2026-01-23,7,Airport,Latte,Drink,1,4.5,0,card,35,4,birthday
+1464,2026-01-23,14,Airport,Cappuccino,Drink,4,4.25,0,card,31,4,
+1466,2026-01-24,10,Uptown,Latte,Drink,1,4.5,0,mobile,42,5,
+1373,2026-01-25,8,Airport,Croissant,Food,1,3.5,,mobile,36,5,
+1281,2026-01-25,11,Downtown,Espresso,Drink,2,3.0,0,Card,52,5,loyalty card
+1296,2026-01-26,12,Downtown,Muffin,Food,2,3.25,5,card,32,4,extra hot
+1206,2026-01-26,9,Downtown,Espresso,Drink,1,3.0,10,Mobile,,5,birthday
+1334,2026-01-27,12,Downtown,Croissant,Food,1,3.5,0,card,24,5,loyalty card
+1179,2026-01-27,7,Downtown,Cold Brew,Drink,2,4.75,,mobile,27,5,
+1308,2026-01-28,6,Harbor,Espresso,Drink,2,3.0,10,,44,5,loyalty card
+1001,2026-01-28,10,Harbor,Cold Brew,Drink,1,4.75,0,mobile,30,5,to go
+1499,2026-01-29,7,Uptown,Latte,Drink,1,4.5,0,cash,30,,birthday
+1008,2026-01-29,9,Uptown,Croissant,Food,4,3.5,0,card,16,5,to go
+1158,2026-01-29,10,Airport,Latte,Drink,2,4.5,0,card,38,,complaint: cold
+1498,2026-01-30,6,Uptown,Latte,Drink,2,4.5,0,mobile,16,,
+1187,2026-01-30,10,Uptown,Cold Brew,Drink,1,4.75,0,card,39,4,oat milk
+1096,2026-01-31,10,Downtown,Cold Brew,Drink,3,4.75,0,card,46,4,allergy: nuts
+1488,2026-01-31,9,Airport,Latte,Drink,2,4.5,0,mobile,16,3,oat milk
+1396,2026-01-31,6,Downtown,Croissant,Food,1,3.5,0,card,42,4,
+1291,2026-01-31,12,Harbor,Croissant,Food,1,3.5,0,mobile,41,4,loyalty card
+1007,2026-01-31,11,Downtown,Croissant,Food,2,3.5,0,card,30,3,complaint: cold
+1429,2026-01-31,11,Harbor,Latte,Drink,2,4.5,0,cash,20,5,
+1042,2026-02-01,7,Harbor,Bagel,Food,2,3.75,10,card,19,5,loyalty card
+1224,2026-02-02,11,Harbor,Latte,Drink,3,4.5,0,card,,,
+1431,2026-02-04,7,Harbor,Latte,Drink,2,4.5,5,card,16,,
+1105,2026-02-04,18,Harbor,Muffin,Food,2,3.25,0,cash,54,2,extra hot
+1407,2026-02-04,7,Uptown,Cold Brew,Drink,1,4.75,0,card,45,,loyalty card
+1126,2026-02-05,14,Harbor,Muffin,Food,1,3.25,0,cash,28,,
+1437,2026-02-05,9,Harbor,Latte,Drink,1,4.5,0,card,,,
+1055,2026-02-05,12,Airport,Bagel,Food,2,3.75,0,card,48,4,oat milk
+1102,2026-02-06,6,Harbor,Cappuccino,Drink,1,4.25,0,card,26,4,to go
+1038,2026-02-06,11,Harbor,Espresso,Drink,3,3.0,0,,140,,
+1016,2026-02-06,8,Downtown,Croissant,Food,1,3.5,0,Card,27,4,
+1346,2026-02-07,9,Downtown,Croissant,Food,4,3.5,0,card,43,4,
+1154,2026-02-07,10,Downtown,Muffin,Food,2,3.25,0,Card,23,1,extra hot
+1348,2026-02-07,8,Downtown,Cappuccino,Drink,1,4.25,0,cash,43,4,
+1185,2026-02-08,7,Downtown,Espresso,Drink,1,3.0,15,card,40,5,
+1085,2026-02-08,9,Uptown,Cold Brew,Drink,1,4.75,0,card,52,2,
+1185,2026-02-08,7,Downtown,Espresso,Drink,1,3.0,15,card,40,5,
+1065,2026-02-08,9,Uptown,Croissant,Food,2,3.5,10,cash,24,4,to go
+1164,2026-02-08,9,Airport,Cappuccino,Drink,1,4.25,,card,43,5,extra hot
+1344,2026-02-09,16,Harbor,Muffin,Food,3,3.25,5,card,19,4,birthday
+1252,2026-02-09,8,Harbor,Latte,Drink,1,4.5,0,cash,30,4,
+1453,2026-02-09,8,Downtown,Latte,Drink,2,4.5,,card,,,extra hot
+1166,2026-02-10,9,Downtown,Latte,Drink,4,4.5,0,card,33,5,oat milk
+1245,2026-02-11,7,Uptown,Latte,Drink,1,4.5,0,cash,,,extra hot
+1181,2026-02-12,8,Harbor,Latte,Drink,2,4.5,0,card,18,2,
+1246,2026-02-12,9,Uptown,Espresso,Drink,1,3.0,0,mobile,17,3,allergy: nuts
+1475,2026-02-13,6,Downtown,Croissant,Food,1,3.5,0,,47,2,extra hot
+1048,2026-02-14,14,Harbor,Muffin,Food,1,3.25,5,mobile,25,3,
+1233,2026-02-14,8,Harbor,Cold Brew,Drink,1,4.75,0,card,,5,
+1134,2026-02-14,9,Harbor,Latte,Drink,2,4.5,0,card,25,4,allergy: nuts
+1266,2026-02-15,11,Downtown,Latte,Drink,2,4.5,15,mobile,23,5,
+1238,2026-02-16,12,Downtown,Croissant,Food,1,3.5,0,card,37,4,
+1228,2026-02-16,10,Downtown,Cold Brew,Drink,2,4.75,0,mobile,32,,loyalty card
+1349,2026-02-16,15,Uptown,Latte,Drink,1,4.5,0,cash,26,4,allergy: nuts
+1095,2026-02-17,11,Uptown,Croissant,Food,2,3.5,0,card,23,3,
+1478,2026-02-18,12,Harbor,Cold Brew,Drink,1,4.75,10,mobile,23,1,
+1216,2026-02-18,10,Uptown,Cold Brew,Drink,1,4.75,10,card,37,3,birthday
+1284,2026-02-19,6,Airport,Cappuccino,Drink,3,4.25,,card,20,2,
+1359,2026-02-19,10,Uptown,Cappuccino,Drink,1,4.25,0,card,29,4,extra hot
+1033,2026-02-19,6,Downtown,Cold Brew,Drink,2,4.75,0,card,16,,
+1409,2026-02-19,8,Downtown,Muffin,Food,3,3.25,0,,50,4,
+1137,2026-02-20,9,Downtown,Espresso,Drink,1,3.0,15,cash,31,4,
+1323,2026-02-21,8,Downtown,Cappuccino,Drink,1,4.25,0,mobile,47,,
+1023,2026-02-21,9,Airport,Muffin,Food,2,3.25,5,mobile,25,5,
+1397,2026-02-21,12,Downtown,Muffin,Food,2,3.25,0,card,31,4,loyalty card
+1506,2026-02-21,10,Harbor,Bagel,Food,1,3.75,0,cash,37,,loyalty card
+1385,2026-02-21,6,Downtown,Latte,Drink,4,4.5,0,card,42,4,birthday
+1519,2026-02-21,15,Downtown,Muffin,Food,1,3.25,0,cash,41,3,
+1470,2026-02-21,7,Airport,Cappuccino,Drink,2,4.25,0,card,42,3,allergy: nuts
+1512,2026-02-21,12,Downtown,Cold Brew,Drink,1,4.75,0,mobile,21,3,allergy: nuts
+1362,2026-02-22,9,Downtown,Bagel,Food,1,3.75,5,mobile,28,,allergy: nuts
+1335,2026-02-22,15,Uptown,Bagel,Food,2,3.75,0,cash,32,4,
+1231,2026-02-22,8,Downtown,Espresso,Drink,2,3.0,10,card,42,5,birthday
+1019,2026-02-22,13,Uptown,Cold Brew,Drink,1,4.75,0,,37,,allergy: nuts
+1077,2026-02-23,9,Uptown,Espresso,Drink,2,3.0,0,card,41,3,
+1202,2026-02-24,12,Harbor,Bagel,Food,2,3.75,0,card,37,,
+1046,2026-02-24,13,Harbor,Muffin,Food,1,3.25,15,mobile,,5,
+1364,2026-02-24,13,Downtown,Latte,Drink,4,4.5,15,card,16,5,
+1176,2026-02-24,6,Airport,Latte,Drink,3,4.5,0,card,48,,
+1124,2026-02-25,10,Uptown,Cappuccino,Drink,1,4.25,0,,,3,
+1110,2026-02-25,10,Harbor,Espresso,Drink,2,3.0,5,mobile,27,3,allergy: nuts
+1405,2026-02-26,17,Airport,Croissant,Food,2,3.5,5,card,21,,extra hot
+1455,2026-02-26,9,Harbor,Latte,Drink,2,4.5,0,mobile,36,5,complaint: cold
+1327,2026-02-27,6,Downtown,Espresso,Drink,2,3.0,0,mobile,31,3,
+1358,2026-02-27,10,Airport,Croissant,Food,2,3.5,0,card,17,4,
+1189,2026-02-27,13,Downtown,Muffin,Food,3,3.25,0,card,38,,
+1355,2026-02-28,16,Uptown,Cappuccino,Drink,1,4.25,10,CARD,48,3,to go
+1500,2026-02-28,12,Downtown,Cappuccino,Drink,3,4.25,10,card,40,,to go
+1352,2026-03-01,10,Harbor,Croissant,Food,1,3.5,,mobile,41,,to go
+1504,2026-03-01,12,Harbor,Cappuccino,Drink,1,4.25,5,mobile,41,,
+1072,2026-03-01,12,Harbor,Bagel,Food,1,3.75,0,card,,4,
+1050,2026-03-01,9,Downtown,Latte,Drink,1,4.5,0,Card,26,4,
+1217,2026-03-02,8,Downtown,Latte,Drink,2,4.5,0,card,40,4,loyalty card
+1509,2026-03-03,12,Downtown,Cappuccino,Drink,1,4.25,10,card,30,,
+1328,2026-03-03,7,Uptown,Latte,Drink,1,4.5,5,card,34,4,complaint: cold
+1508,2026-03-05,7,Downtown,Latte,Drink,1,4.5,10,card,17,5,
+1162,2026-03-06,9,Harbor,Cappuccino,Drink,2,4.25,5,card,37,,loyalty card
+1025,2026-03-06,11,Downtown,Cold Brew,Drink,3,4.75,0,mobile,38,,birthday
+1463,2026-03-07,9,Harbor,Muffin,Food,1,3.25,10,card,20,5,
+1402,2026-03-07,15,Uptown,Croissant,Food,1,3.5,10,cash,24,5,
+1040,2026-03-08,6,Downtown,Cappuccino,Drink,2,4.25,0,cash,27,3,
+1378,2026-03-08,8,Uptown,Croissant,Food,1,3.5,0,card,22,5,allergy: nuts
+1404,2026-03-08,8,Uptown,Cappuccino,Drink,1,4.25,0,card,26,5,
+1194,2026-03-08,7,Downtown,Latte,Drink,2,4.5,0,mobile,43,,
+1422,2026-03-09,6,Uptown,Espresso,Drink,2,3.0,0,mobile,,3,
+1119,2026-03-09,7,Downtown,Bagel,Food,2,3.75,0,cash,30,,
+1153,2026-03-10,9,Harbor,Cappuccino,Drink,1,4.25,10,cash,28,5,birthday
+1031,2026-03-11,7,Airport,Cold Brew,Drink,2,4.75,0,mobile,44,3,
+1365,2026-03-11,9,Downtown,Cappuccino,Drink,2,4.25,0,card,43,5,
+1399,2026-03-11,10,Downtown,Cold Brew,Drink,2,4.75,0,mobile,30,4,birthday
+1324,2026-03-11,10,Downtown,Cold Brew,Drink,2,4.75,,card,26,,extra hot
+1109,2026-03-11,9,Airport,Muffin,Food,2,3.25,,card,,1,oat milk
+1347,2026-03-12,17,Downtown,Bagel,Food,2,3.75,0,card,35,4,
+1018,2026-03-12,6,Downtown,Bagel,Food,1,3.75,0,card,,4,oat milk
+1054,2026-03-12,7,Uptown,Croissant,Food,1,3.5,,card,32,,
+1434,2026-03-12,10,Harbor,Cappuccino,Drink,4,4.25,5,card,49,,allergy: nuts
+1236,2026-03-12,9,Downtown,Latte,Drink,1,4.5,,card,27,,
+1479,2026-03-12,11,Downtown,Croissant,Food,1,3.5,0,mobile,,,
+1273,2026-03-13,9,Uptown,Espresso,Drink,1,3.0,0,card,30,3,complaint: cold
+1471,2026-03-13,9,Downtown,Muffin,Food,1,3.25,0,card,36,3,
+1215,2026-03-14,10,Downtown,Espresso,Drink,3,3.0,0,cash,36,3,oat milk
+1173,2026-03-15,9,Downtown,Cappuccino,Drink,1,4.25,0,CARD,33,3,
+1417,2026-03-15,11,Uptown,Croissant,Food,1,3.5,0,card,30,5,
+1242,2026-03-15,9,Downtown,Bagel,Food,1,3.75,10,cash,37,,
+1476,2026-03-16,8,Uptown,Latte,Drink,2,4.5,0,Card,52,5,
+1311,2026-03-16,8,Airport,Latte,Drink,1,4.5,0,card,37,3,allergy: nuts
+1450,2026-03-16,6,Uptown,Espresso,Drink,2,3.0,5,mobile,38,4,birthday
+1067,2026-03-17,11,Airport,Croissant,Food,1,3.5,0,cash,25,2,extra hot
+1438,2026-03-17,14,Harbor,Muffin,Food,2,3.25,0,card,34,3,
+1177,2026-03-17,12,Harbor,Cappuccino,Drink,1,4.25,0,cash,38,4,
+1487,2026-03-18,10,Downtown,Latte,Drink,2,4.5,10,card,18,,
+1316,2026-03-19,10,Uptown,Cappuccino,Drink,1,4.25,0,mobile,24,4,complaint: cold
+1201,2026-03-19,13,Harbor,Croissant,Food,2,3.5,0,card,,4,
+1066,2026-03-19,9,Harbor,Espresso,Drink,1,3.0,,card,28,,
+1157,2026-03-19,9,Harbor,Muffin,Food,1,3.25,0,card,24,4,
+1114,2026-03-19,10,Harbor,Cold Brew,Drink,4,4.75,5,card,27,,
+1381,2026-03-20,10,Downtown,Cappuccino,Drink,2,4.25,10,cash,29,5,
+1416,2026-03-20,16,Uptown,Cappuccino,Drink,1,4.25,10,card,41,5,
+1135,2026-03-20,6,Downtown,Cold Brew,Drink,3,4.75,0,card,24,,birthday
+1354,2026-03-21,12,Downtown,Cappuccino,Drink,1,4.25,0,,37,,to go
+1514,2026-03-21,9,Airport,Muffin,Food,3,3.25,0,card,36,4,
+1223,2026-03-22,12,Downtown,Croissant,Food,2,3.5,0,mobile,36,5,extra hot
+1294,2026-03-22,12,Harbor,Bagel,Food,2,3.75,10,card,52,4,birthday
+1313,2026-03-22,6,Airport,Croissant,Food,1,3.5,0,card,45,4,allergy: nuts
+1494,2026-03-22,10,Harbor,Cold Brew,Drink,1,4.75,0,card,38,1,allergy: nuts
+1288,2026-03-22,6,Downtown,Latte,Drink,1,4.5,0,card,24,4,extra hot
+1303,2026-03-22,10,Downtown,Cappuccino,Drink,1,4.25,0,card,,4,
+1199,2026-03-22,14,Harbor,Muffin,Food,2,3.25,5,card,25,,loyalty card
+1307,2026-03-23,7,Uptown,Latte,Drink,1,4.5,10,Card,34,3,oat milk
+1495,2026-03-23,8,Downtown,Latte,Drink,1,4.5,0,card,23,4,
+1115,2026-03-23,10,Airport,Bagel,Food,1,3.75,0,card,40,,allergy: nuts
+1207,2026-03-24,13,Downtown,Latte,Drink,3,4.5,0,mobile,56,,
+1017,2026-03-24,7,Downtown,Muffin,Food,3,3.25,0,card,16,,
+1477,2026-03-24,10,Uptown,Bagel,Food,1,3.75,0,mobile,36,5,loyalty card
+1287,2026-03-24,7,Downtown,Latte,Drink,1,4.5,0,card,26,1,
+1447,2026-03-24,8,Uptown,Espresso,Drink,1,3.0,0,card,35,1,complaint: cold
+1374,2026-03-25,10,Uptown,Latte,Drink,1,4.5,0,card,37,,complaint: cold
+1490,2026-03-25,6,Downtown,Latte,Drink,2,4.5,5,card,42,5,
+1081,2026-03-26,9,Downtown,Latte,Drink,1,4.5,10,card,51,,complaint: cold
+1432,2026-03-26,11,Airport,Cappuccino,Drink,1,4.25,0,card,36,,
+1175,2026-03-26,6,Downtown,Cappuccino,Drink,1,4.25,0,card,23,4,to go
+1142,2026-03-27,8,Harbor,Latte,Drink,3,4.5,15,card,32,4,
+1165,2026-03-27,10,Harbor,Croissant,Food,1,3.5,0,cash,40,5,
+1331,2026-03-27,8,Uptown,Cappuccino,Drink,3,4.25,0,cash,,4,complaint: cold
+1168,2026-03-27,10,Uptown,Muffin,Food,1,3.25,5,card,37,5,birthday
+1401,2026-03-27,7,Uptown,Latte,Drink,1,4.5,5,card,32,,
+1505,2026-03-28,10,Uptown,Croissant,Food,1,3.5,0,mobile,28,3,
+1013,2026-03-28,12,Harbor,Latte,Drink,3,4.5,0,mobile,34,,oat milk
+1104,2026-03-28,12,Uptown,Muffin,Food,2,3.25,0,card,50,2,
+1377,2026-03-28,7,Harbor,Cappuccino,Drink,2,4.25,5,card,33,,loyalty card
+1027,2026-03-28,10,Airport,Croissant,Food,1,3.5,0,card,34,5,oat milk
+1372,2026-03-28,9,Airport,Croissant,Food,1,3.5,0,card,45,4,allergy: nuts
+1424,2026-03-28,8,Uptown,Espresso,Drink,2,3.0,0,card,43,,
+1129,2026-03-28,11,Downtown,Croissant,Food,2,3.5,5,,43,4,
+1250,2026-03-29,11,Harbor,Latte,Drink,1,4.5,0,card,49,,extra hot
+1148,2026-03-29,11,Downtown,Croissant,Food,2,3.5,0,card,17,,
+1053,2026-03-29,11,Uptown,Espresso,Drink,1,3.0,,card,28,5,
+1139,2026-03-29,11,Downtown,Croissant,Food,2,3.5,0,card,36,4,
+1515,2026-03-29,10,Uptown,Muffin,Food,1,3.25,0,card,27,4,
+1205,2026-03-30,12,Downtown,Bagel,Food,2,3.75,0,card,46,4,loyalty card
+1274,2026-03-30,12,Uptown,Cappuccino,Drink,1,4.25,0,mobile,41,5,extra hot
+1052,2026-03-30,8,Uptown,Latte,Drink,1,4.5,5,,37,,oat milk
+1193,2026-03-30,12,Airport,Latte,Drink,3,4.5,5,mobile,38,5,
+1272,2026-03-31,8,Downtown,Latte,Drink,1,4.5,5,card,42,3,
+1251,2026-03-31,6,Downtown,Cappuccino,Drink,2,4.25,0,card,34,,allergy: nuts
+1171,2026-03-31,8,Airport,Latte,Drink,3,4.5,0,card,20,4,extra hot
+1345,2026-03-31,14,Uptown,Latte,Drink,3,4.5,5,mobile,29,,extra hot
+1200,2026-04-01,9,Airport,Muffin,Food,1,3.5,0,card,37,4,loyalty card
+1068,2026-04-01,10,Airport,Latte,Drink,1,4.75,0,cash,59,4,
+1244,2026-04-01,12,Downtown,Bagel,Food,1,4.0,5,card,29,5,
+1473,2026-04-01,10,Downtown,Latte,Drink,4,4.75,0,card,47,4,oat milk
+1443,2026-04-01,8,Airport,Latte,Drink,2,4.75,0,card,55,,
+1258,2026-04-02,10,Downtown,Bagel,Food,2,4.0,10,card,42,2,loyalty card
+1078,2026-04-02,6,Uptown,Cold Brew,Drink,1,5.0,10,card,27,1,
+1465,2026-04-03,6,Downtown,Cold Brew,Drink,1,5.0,5,card,41,5,
+1489,2026-04-03,7,Downtown,Latte,Drink,4,4.75,0,card,30,4,
+1120,2026-04-03,9,Uptown,Croissant,Food,2,3.75,0,card,50,,to go
+1382,2026-04-03,10,Downtown,Cold Brew,Drink,2,5.0,0,card,32,,
+1172,2026-04-03,13,Harbor,Cappuccino,Drink,1,4.5,0,card,33,2,
+1271,2026-04-03,15,Uptown,Latte,Drink,1,4.75,15,card,31,,complaint: cold
+1510,2026-04-04,7,Harbor,Croissant,Food,1,3.75,,card,21,4,
+1267,2026-04-04,12,Harbor,Espresso,Drink,1,3.25,0,card,,3,
+1210,2026-04-05,8,Airport,Cold Brew,Drink,1,5.0,5,card,42,,extra hot
+1363,2026-04-05,13,Uptown,Croissant,Food,2,3.75,0,Mobile,19,5,
+1069,2026-04-05,7,Harbor,Latte,Drink,3,4.75,0,card,49,5,
+1322,2026-04-05,15,Uptown,Croissant,Food,1,3.75,5,mobile,46,,
+1388,2026-04-06,11,Airport,Croissant,Food,1,3.75,,mobile,33,5,
+1106,2026-04-06,6,Airport,Latte,Drink,1,4.75,0,card,34,,extra hot
+1133,2026-04-06,9,Uptown,Latte,Drink,1,4.75,0,mobile,21,4,allergy: nuts
+1029,2026-04-06,8,Airport,Muffin,Food,2,3.5,10,card,16,,
+1237,2026-04-07,9,Downtown,Cappuccino,Drink,1,4.5,0,mobile,39,5,
+1083,2026-04-07,15,Airport,Cold Brew,Drink,2,5.0,0,mobile,39,4,
+1336,2026-04-07,10,Downtown,Croissant,Food,1,3.75,0,card,,4,to go
+1446,2026-04-08,12,Airport,Bagel,Food,1,4.0,0,card,49,,
+T-1,2026-02-02,10,TEST,TEST ITEM,Drink,1,0.0,0,card,,,register test
+T-2,2026-02-02,10,TEST,TEST ITEM,Drink,1,0.0,0,card,,,register test
+1300,2026-04-08,12,Downtown,Latte,Drink,1,4.75,0,cash,24,,oat milk
+1276,2026-04-08,11,Harbor,Croissant,Food,1,3.75,0,card,27,5,
+1132,2026-04-08,15,Downtown,Bagel,Food,1,4.0,0,card,,3,
+1285,2026-04-09,10,Downtown,Croissant,Food,2,3.75,,mobile,31,4,birthday
+1127,2026-04-09,14,Downtown,Latte,Drink,1,4.75,0,mobile,26,,
+1413,2026-04-10,8,Harbor,Cappuccino,Drink,2,4.5,,card,24,4,
+1425,2026-04-10,9,Harbor,Espresso,Drink,1,3.25,5,Card,,4,
+1342,2026-04-10,10,Downtown,Latte,Drink,1,4.75,0,cash,35,,
+1249,2026-04-10,10,Harbor,Croissant,Food,2,3.75,15,mobile,48,2,
+1045,2026-04-10,8,Airport,Croissant,Food,2,3.75,,cash,43,,to go
+1197,2026-04-11,6,Downtown,Cold Brew,Drink,1,5.0,10,card,20,,complaint: cold
+1015,2026-04-11,10,Uptown,Latte,Drink,3,4.75,10,card,,2,extra hot
+1410,2026-04-12,7,Airport,Cold Brew,Drink,3,5.0,5,card,40,,
+1496,2026-04-12,7,Airport,Latte,Drink,2,4.75,5,card,,4,
+1380,2026-04-12,8,Downtown,Latte,Drink,1,4.75,0,card,16,4,
+1089,2026-04-12,7,Harbor,Cold Brew,Drink,2,5.0,0,mobile,33,3,
+1269,2026-04-12,14,Harbor,Muffin,Food,2,3.5,10,card,28,,
+1188,2026-04-13,7,Harbor,Espresso,Drink,1,3.25,10,card,38,4,birthday
+1174,2026-04-14,8,Airport,Muffin,Food,2,3.5,0,,28,5,oat milk
+1174,2026-04-14,8,Airport,Muffin,Food,2,3.5,0,,28,5,oat milk
+1160,2026-04-15,9,Downtown,Muffin,Food,1,3.5,0,card,36,2,
+1452,2026-04-15,6,Airport,Cappuccino,Drink,1,4.5,0,,33,,
+1146,2026-04-15,8,Airport,Latte,Drink,1,4.75,0,card,47,3,
+1456,2026-04-15,7,Downtown,Espresso,Drink,1,3.25,0,Card,20,,
+1234,2026-04-15,7,Downtown,Cold Brew,Drink,2,5.0,15,,38,4,loyalty card
+1332,2026-04-15,12,Uptown,Bagel,Food,2,4.0,0,cash,49,4,loyalty card
+1062,2026-04-15,11,Uptown,Cappuccino,Drink,1,4.5,5,card,25,,
+1241,2026-04-16,8,Uptown,Cold Brew,Drink,1,5.0,,card,16,5,
+1418,2026-04-16,8,Airport,Espresso,Drink,1,3.25,0,cash,45,3,
+1204,2026-04-16,11,Uptown,Bagel,Food,1,4.0,15,mobile,63,,
+1111,2026-04-16,10,Airport,Cappuccino,Drink,3,4.5,0,card,28,4,complaint: cold
+1330,2026-04-17,11,Downtown,Espresso,Drink,1,3.25,0,card,33,3,
+1333,2026-04-17,12,Airport,Croissant,Food,2,3.75,0,mobile,,,loyalty card
+1213,2026-04-17,8,Airport,Espresso,Drink,1,3.25,0,card,52,3,
+1032,2026-04-17,10,Harbor,Bagel,Food,1,4.0,0,card,43,,extra hot
+1492,2026-04-18,8,Uptown,Latte,Drink,1,4.75,0,card,29,,extra hot
+1211,2026-04-18,8,Airport,Croissant,Food,2,3.75,5,card,21,,to go
+1061,2026-04-18,15,Airport,Cold Brew,Drink,1,5.0,0,card,21,5,
+1186,2026-04-18,10,Airport,Latte,Drink,3,4.75,0,mobile,28,5,extra hot
+1309,2026-04-18,6,Airport,Cold Brew,Drink,2,5.0,10,card,27,5,oat milk
+1367,2026-04-19,7,Airport,Latte,Drink,1,4.75,0,cash,40,,
+1063,2026-04-19,6,Uptown,Latte,Drink,1,4.75,,mobile,24,,oat milk
+1225,2026-04-20,10,Harbor,Bagel,Food,1,4.0,0,cash,31,4,to go
+1123,2026-04-20,6,Uptown,Espresso,Drink,1,3.25,0,mobile,48,5,
+1305,2026-04-20,11,Airport,Cappuccino,Drink,2,4.5,0,card,42,,loyalty card
+1317,2026-04-20,10,Downtown,Espresso,Drink,3,3.25,0,card,38,,
+1391,2026-04-21,12,Downtown,Cold Brew,Drink,2,5.0,0,card,35,2,allergy: nuts
+1383,2026-04-21,10,Downtown,Muffin,Food,1,3.5,0,Card,40,5,
+1196,2026-04-21,10,Harbor,Muffin,Food,2,3.5,0,card,25,4,
+1459,2026-04-22,7,Uptown,Espresso,Drink,1,3.25,,cash,43,5,
+1329,2026-04-22,6,Harbor,Cappuccino,Drink,2,4.5,0,card,27,3,
+1393,2026-04-23,6,Uptown,Muffin,Food,2,3.5,0,cash,40,4,
+1101,2026-04-23,11,Harbor,Muffin,Food,1,3.5,0,mobile,32,4,allergy: nuts
+1056,2026-04-23,8,Downtown,Cappuccino,Drink,2,4.5,15,cash,37,5,extra hot
+1011,2026-04-23,8,Airport,Muffin,Food,1,3.5,0,mobile,54,4,
+1118,2026-04-24,9,Downtown,Croissant,Food,1,3.75,5,card,55,5,
+1474,2026-04-25,10,Airport,Croissant,Food,1,3.75,0,mobile,,,
+1376,2026-04-25,9,Downtown,Muffin,Food,3,3.5,5,card,31,4,
+1277,2026-04-25,9,Uptown,Latte,Drink,1,4.75,0,card,39,3,
+1315,2026-04-25,10,Uptown,Bagel,Food,2,4.0,10,cash,18,5,
+1304,2026-04-26,10,Harbor,Cappuccino,Drink,1,4.5,0,cash,43,4,allergy: nuts
+1414,2026-04-26,7,Harbor,Croissant,Food,1,3.75,0,,28,,
+1338,2026-04-26,10,Downtown,Muffin,Food,3,3.5,0,mobile,34,4,
+1304,2026-04-26,10,Harbor,Cappuccino,Drink,1,4.5,0,cash,43,4,allergy: nuts
+1368,2026-04-26,11,Uptown,Croissant,Food,3,3.75,,card,41,5,
+1326,2026-04-26,9,Downtown,Cappuccino,Drink,1,4.5,0,mobile,40,5,to go
+1075,2026-04-26,15,Harbor,Espresso,Drink,1,3.25,0,card,36,,
+1368,2026-04-26,11,Uptown,Croissant,Food,3,3.75,,card,41,5,
+1286,2026-04-28,8,Airport,Latte,Drink,3,4.75,0,mobile,27,5,loyalty card
+1183,2026-04-29,6,Downtown,Latte,Drink,2,4.75,5,card,51,,loyalty card
+1151,2026-04-29,8,Downtown,Cappuccino,Drink,1,4.5,5,,,,
+1060,2026-04-29,10,Harbor,Croissant,Food,1,3.75,5,mobile,37,,allergy: nuts
+1491,2026-04-29,12,Uptown,Espresso,Drink,2,3.25,0,cash,,2,
+1415,2026-04-29,9,Downtown,Cold Brew,Drink,1,5.0,0,card,51,,
+1457,2026-04-30,9,Downtown,Latte,Drink,1,4.75,5,cash,,4,
+1257,2026-04-30,12,Airport,Bagel,Food,3,4.0,0,card,27,,
+1149,2026-05-01,12,Downtown,Croissant,Food,1,3.75,5,CARD,45,,
+1184,2026-05-01,6,Uptown,Espresso,Drink,1,3.25,10,mobile,18,,
+1268,2026-05-02,8,Uptown,Latte,Drink,3,4.75,10,card,,3,
+1340,2026-05-02,10,Airport,Cappuccino,Drink,1,4.5,10,card,40,,extra hot
+1121,2026-05-03,10,Downtown,Latte,Drink,3,4.75,0,card,26,4,
+1214,2026-05-03,8,Downtown,Cappuccino,Drink,1,4.5,,card,41,,loyalty card
+1262,2026-05-04,10,Airport,Muffin,Food,1,3.5,0,cash,29,4,
+1283,2026-05-04,11,Harbor,Cold Brew,Drink,2,5.0,0,CARD,,5,
+1403,2026-05-04,9,Harbor,Bagel,Food,1,4.0,0,card,54,5,
+1485,2026-05-04,11,Downtown,Muffin,Food,2,3.5,0,mobile,38,4,extra hot
+1138,2026-05-05,7,Downtown,Muffin,Food,1,3.5,0,card,37,,
+1004,2026-05-06,7,Uptown,Latte,Drink,1,4.75,0,mobile,32,4,allergy: nuts
+1458,2026-05-06,6,Downtown,Cold Brew,Drink,2,5.0,10,card,21,2,complaint: cold
+1426,2026-05-06,6,Harbor,Espresso,Drink,1,3.25,15,mobile,38,5,
+1222,2026-05-06,11,Uptown,Bagel,Food,2,4.0,0,mobile,26,,to go
+1261,2026-05-08,10,Harbor,Muffin,Food,2,3.5,0,mobile,25,4,birthday
+1461,2026-05-08,11,Downtown,Muffin,Food,1,3.5,0,cash,49,,
+1167,2026-05-09,13,Uptown,Muffin,Food,1,3.5,10,card,33,3,to go
+1128,2026-05-09,11,Airport,Latte,Drink,2,4.75,0,card,,5,allergy: nuts
+1021,2026-05-10,6,Downtown,Cappuccino,Drink,1,4.5,0,card,29,4,loyalty card
+1057,2026-05-10,6,Harbor,Cappuccino,Drink,1,4.5,0,,35,,
+1451,2026-05-10,6,Harbor,Latte,Drink,3,4.75,0,card,47,5,allergy: nuts
+1208,2026-05-11,10,Downtown,Cold Brew,Drink,3,5.0,0,mobile,20,5,to go
+1400,2026-05-11,11,Uptown,Latte,Drink,1,4.75,0,card,,5,loyalty card
+1389,2026-05-12,8,Uptown,Espresso,Drink,2,3.25,10,card,16,5,
+1483,2026-05-12,12,Harbor,Bagel,Food,2,4.0,0,card,27,1,birthday
+1051,2026-05-12,16,Downtown,Croissant,Food,2,3.75,15,mobile,23,4,
+1203,2026-05-12,6,Uptown,Cold Brew,Drink,1,5.0,0,mobile,41,,
+1433,2026-05-13,10,Downtown,Croissant,Food,1,3.75,0,card,36,2,loyalty card
+1411,2026-05-13,13,Harbor,Croissant,Food,1,3.75,10,cash,43,2,
+1406,2026-05-14,10,Uptown,Espresso,Drink,1,3.25,5,mobile,43,5,
+1290,2026-05-15,14,Downtown,Bagel,Food,1,4.0,10,cash,44,1,
+1117,2026-05-16,12,Downtown,Latte,Drink,2,4.75,5,card,16,,allergy: nuts
+1467,2026-05-17,6,Downtown,Latte,Drink,1,4.75,0,card,25,5,to go
+1341,2026-05-17,11,Harbor,Latte,Drink,1,4.75,0,mobile,31,,loyalty card
+1044,2026-05-17,13,Uptown,Muffin,Food,1,3.5,0,card,37,3,
+1481,2026-05-18,7,Uptown,Cappuccino,Drink,3,4.5,0,card,35,5,
+1170,2026-05-18,10,Harbor,Bagel,Food,2,4.0,0,card,43,,
+1482,2026-05-18,7,Uptown,Latte,Drink,1,4.75,0,,42,,
+1005,2026-05-18,6,Harbor,Espresso,Drink,1,3.25,0,card,41,5,oat milk
+1435,2026-05-18,10,Downtown,Croissant,Food,1,3.75,,card,42,5,oat milk
+1293,2026-05-19,14,Harbor,Croissant,Food,1,3.75,,mobile,36,,complaint: cold
+1454,2026-05-20,11,Airport,Cappuccino,Drink,2,4.5,0,mobile,30,1,
+1212,2026-05-20,8,Harbor,Latte,Drink,2,4.75,10,card,0,4,
+1282,2026-05-20,8,Airport,Muffin,Food,1,3.5,0,mobile,31,4,
+1320,2026-05-21,8,Downtown,Latte,Drink,1,4.75,0,card,28,2,
+1445,2026-05-21,8,Uptown,Croissant,Food,1,3.75,0,card,53,5,
+1278,2026-05-21,11,Downtown,Latte,Drink,1,4.75,5,card,16,,oat milk
+1302,2026-05-21,10,Uptown,Espresso,Drink,1,3.25,5,mobile,36,3,
+1091,2026-05-22,9,Uptown,Cold Brew,Drink,3,5.0,0,card,45,5,
+1041,2026-05-22,12,Downtown,Cappuccino,Drink,2,4.5,,card,37,4,
+1299,2026-05-22,6,Harbor,Cappuccino,Drink,2,4.5,0,mobile,47,,
+1049,2026-05-23,8,Uptown,Latte,Drink,1,4.75,5,card,52,3,extra hot
+1430,2026-05-23,6,Downtown,Latte,Drink,1,4.75,0,card,29,,
+1159,2026-05-23,7,Uptown,Latte,Drink,2,4.75,0,card,24,5,extra hot
+1256,2026-05-23,6,Harbor,Espresso,Drink,4,3.25,0,card,,1,
+1070,2026-05-23,8,Downtown,Latte,Drink,1,4.75,0,mobile,20,3,
+1156,2026-05-24,9,Downtown,Latte,Drink,4,4.75,5,mobile,45,4,birthday
+1263,2026-05-24,6,Downtown,Muffin,Food,1,3.5,0,mobile,40,5,
+1047,2026-05-24,7,Downtown,Cappuccino,Drink,3,4.5,5,cash,33,4,
+1449,2026-05-24,6,Downtown,Croissant,Food,1,3.75,10,cash,37,4,loyalty card
+1141,2026-05-24,7,Airport,Latte,Drink,1,4.75,0,card,31,,
+1310,2026-05-24,10,Downtown,Cold Brew,Drink,1,5.0,15,Card,36,4,allergy: nuts
+1235,2026-05-24,10,Uptown,Espresso,Drink,2,3.25,5,mobile,39,5,
+1357,2026-05-25,8,Downtown,Cold Brew,Drink,3,5.0,0,card,36,5,
+1279,2026-05-25,13,Harbor,Muffin,Food,2,3.5,0,,43,4,
+1020,2026-05-25,11,Downtown,Croissant,Food,1,3.75,5,card,30,5,
+1321,2026-05-25,13,Downtown,Bagel,Food,1,4.0,10,cash,32,4,
+1113,2026-05-25,9,Harbor,Cappuccino,Drink,1,4.5,5,mobile,35,5,
+1314,2026-05-25,11,Harbor,Cold Brew,Drink,1,5.0,0,mobile,44,3,to go
+1289,2026-05-26,12,Downtown,Latte,Drink,1,4.75,15,card,41,,loyalty card
+1398,2026-05-27,9,Uptown,Muffin,Food,1,3.5,0,mobile,20,5,
+1502,2026-05-27,10,Downtown,Espresso,Drink,1,3.25,0,card,39,4,extra hot
+1493,2026-05-27,9,Uptown,Croissant,Food,1,3.75,0,mobile,31,4,
+1343,2026-05-28,9,Downtown,Croissant,Food,1,3.75,0,card,27,3,
+1319,2026-05-28,7,Downtown,Latte,Drink,1,4.75,0,card,16,,
+1182,2026-05-28,9,Downtown,Bagel,Food,2,4.0,0,mobile,38,5,
+1108,2026-05-28,10,Harbor,Latte,Drink,1,4.75,10,card,56,5,
+1503,2026-05-28,11,Downtown,Muffin,Food,2,3.5,10,mobile,16,5,allergy: nuts
+1484,2026-05-29,6,Downtown,Latte,Drink,1,4.75,,cash,25,3,to go
+1247,2026-05-29,10,Downtown,Latte,Drink,1,4.75,5,card,31,,
+1218,2026-05-30,8,Airport,Espresso,Drink,1,3.25,0,cash,44,4,
+1218,2026-05-30,8,Airport,Espresso,Drink,1,3.25,0,cash,44,4,
+1230,2026-05-30,8,Uptown,Latte,Drink,1,4.75,0,cash,30,,allergy: nuts
+1371,2026-05-30,8,Harbor,Espresso,Drink,2,3.25,,mobile,42,5,loyalty card
+1079,2026-05-30,9,Downtown,Muffin,Food,2,3.5,0,card,49,5,
+1375,2026-05-31,10,Airport,Cold Brew,Drink,1,5.0,0,card,30,,loyalty card
+1462,2026-05-31,9,Airport,Espresso,Drink,1,3.25,0,card,24,4,
+1220,2026-05-31,8,Downtown,Muffin,Food,1,3.5,0,cash,29,5,
+1384,2026-05-31,8,Downtown,Croissant,Food,1,3.75,10,cash,30,5,
+1264,2026-05-31,6,Harbor,Cold Brew,Drink,1,5.0,10,card,23,5,
+1125,2026-05-31,6,Uptown,Latte,Drink,1,4.75,0,mobile,27,1,
+1009,2026-06-01,11,Harbor,Espresso,Drink,1,3.25,0,card,26,5,oat milk
+1026,2026-06-01,8,Uptown,Latte,Drink,1,4.75,,card,,,
+1169,2026-06-02,8,Harbor,Croissant,Food,3,3.75,5,card,42,4,
+1353,2026-06-02,14,Downtown,Espresso,Drink,1,3.25,5,cash,17,1,
+1058,2026-06-02,11,Downtown,Croissant,Food,2,3.75,0,,41,2,
+1178,2026-06-02,11,Downtown,Cold Brew,Drink,1,5.0,5,cash,27,,
+1295,2026-06-03,8,Uptown,Croissant,Food,1,3.75,0,card,29,3,
+1003,2026-06-03,11,Uptown,Croissant,Food,4,3.75,,mobile,41,5,to go
+1022,2026-06-03,6,Downtown,Latte,Drink,1,4.75,0,card,32,2,
+1408,2026-06-03,9,Airport,Cold Brew,Drink,1,5.0,5,card,49,5,
+1468,2026-06-03,6,Airport,Latte,Drink,2,4.75,5,mobile,23,5,birthday
+1022,2026-06-03,6,Downtown,Latte,Drink,1,4.75,0,card,32,2,
+1513,2026-06-05,11,Airport,Muffin,Food,1,3.5,0,mobile,47,5,oat milk
+1088,2026-06-05,10,Harbor,Croissant,Food,1,3.75,0,card,25,4,birthday
+1221,2026-06-06,12,Airport,Muffin,Food,3,3.5,0,mobile,46,,
+1260,2026-06-06,6,Downtown,Latte,Drink,2,4.75,0,,16,5,loyalty card
+1361,2026-06-06,9,Downtown,Latte,Drink,2,4.75,0,cash,48,,to go
+1037,2026-06-06,7,Harbor,Latte,Drink,1,4.75,0,mobile,45,4,
+1318,2026-06-07,9,Harbor,Croissant,Food,1,3.75,,card,32,4,
+1002,2026-06-07,9,Uptown,Espresso,Drink,1,3.25,0,card,23,2,
+1339,2026-06-07,7,Harbor,Latte,Drink,1,4.75,0,Mobile,38,,
+1394,2026-06-07,12,Harbor,Cold Brew,Drink,2,5.0,0,mobile,34,3,loyalty card
+1507,2026-06-07,6,Downtown,Latte,Drink,1,4.75,0,card,27,,extra hot
+1412,2026-06-07,12,Uptown,Bagel,Food,2,4.0,5,cash,23,4,
+1226,2026-06-07,10,Harbor,Croissant,Food,1,3.75,15,mobile,35,3,
+1150,2026-06-07,13,Airport,Croissant,Food,1,3.75,10,card,40,4,complaint: cold
+1024,2026-06-08,11,Harbor,Croissant,Food,2,3.75,0,mobile,27,5,oat milk
+1270,2026-06-09,12,Downtown,Bagel,Food,1,4.0,0,mobile,36,,
+1301,2026-06-09,9,Downtown,Cappuccino,Drink,1,4.5,5,mobile,52,,
+1472,2026-06-09,10,Airport,Croissant,Food,1,3.75,10,mobile,37,,to go
+1180,2026-06-09,14,Airport,Latte,Drink,1,4.75,0,cash,45,4,
+1155,2026-06-10,6,Uptown,Latte,Drink,3,4.75,5,card,30,,
+1122,2026-06-10,12,Downtown,Cold Brew,Drink,1,5.0,0,card,40,4,allergy: nuts
+1306,2026-06-10,9,Harbor,Muffin,Food,1,3.5,0,card,16,,oat milk
+1428,2026-06-11,8,Downtown,Cappuccino,Drink,1,4.5,0,card,34,,complaint: cold
+1517,2026-06-11,11,Harbor,Muffin,Food,1,3.5,0,mobile,28,,
+1059,2026-06-11,6,Uptown,Cold Brew,Drink,2,5.0,15,mobile,33,,to go
+1232,2026-06-12,8,Uptown,Latte,Drink,3,4.75,10,,30,2,birthday
+1419,2026-06-12,13,Uptown,Muffin,Food,1,3.5,0,card,44,4,
+1441,2026-06-13,9,Airport,Cold Brew,Drink,2,5.0,0,cash,30,,birthday
+1006,2026-06-13,11,Harbor,Cold Brew,Drink,4,5.0,0,mobile,23,4,loyalty card
+1351,2026-06-13,9,Uptown,Cappuccino,Drink,1,4.5,0,CARD,36,4,extra hot
+1090,2026-06-13,6,Airport,Cold Brew,Drink,1,5.0,5,card,19,,complaint: cold
+1255,2026-06-13,9,Downtown,Cappuccino,Drink,1,4.5,0,mobile,32,4,allergy: nuts
+1136,2026-06-14,6,Uptown,Croissant,Food,2,3.75,0,card,27,3,loyalty card
+1145,2026-06-15,10,Airport,Cappuccino,Drink,1,4.5,0,card,36,3,
+1298,2026-06-15,6,Harbor,Cappuccino,Drink,3,4.5,0,mobile,34,4,
+1259,2026-06-15,10,Airport,Muffin,Food,1,3.5,15,mobile,22,,birthday
+1275,2026-06-15,12,Uptown,Latte,Drink,2,4.75,15,mobile,,,
+1248,2026-06-16,9,Downtown,Latte,Drink,1,4.75,0,card,19,,to go
+1516,2026-06-16,13,Uptown,Espresso,Drink,1,3.25,15,card,31,5,allergy: nuts
+1436,2026-06-17,15,Downtown,Cold Brew,Drink,1,5.0,5,cash,35,,
+1191,2026-06-17,14,Harbor,Bagel,Food,1,4.0,5,card,45,4,extra hot
+1312,2026-06-17,9,Uptown,Croissant,Food,40,3.75,0,mobile,18,,oat milk
+1442,2026-06-18,8,Uptown,Croissant,Food,1,3.75,5,card,,,
+1012,2026-06-19,8,Downtown,Espresso,Drink,2,3.25,10,card,16,,allergy: nuts
+1097,2026-06-19,13,Downtown,Cold Brew,Drink,1,5.0,0,card,37,4,
+1243,2026-06-20,11,Harbor,Bagel,Food,1,4.0,5,card,44,5,birthday
+1379,2026-06-20,14,Uptown,Croissant,Food,1,3.75,0,card,39,,extra hot
+1395,2026-06-20,11,Harbor,Muffin,Food,1,3.5,0,cash,26,,loyalty card
+1073,2026-06-21,9,Uptown,Cappuccino,Drink,1,4.5,0,mobile,49,4,to go
+1094,2026-06-22,7,Downtown,Espresso,Drink,2,3.25,5,card,26,,
+1366,2026-06-22,13,Downtown,Cold Brew,Drink,1,5.0,0,Mobile,36,5,extra hot
+1074,2026-06-23,10,Uptown,Cappuccino,Drink,1,4.5,0,card,35,5,loyalty card
+1140,2026-06-23,13,Downtown,Croissant,Food,1,3.75,10,CARD,,4,to go
+1253,2026-06-23,10,Harbor,Espresso,Drink,1,3.25,5,mobile,44,,complaint: cold
+1198,2026-06-23,9,Downtown,Espresso,Drink,1,3.25,0,cash,49,,birthday
+1501,2026-06-24,10,Uptown,Muffin,Food,1,3.5,0,card,40,4,complaint: cold
+1080,2026-06-24,9,Downtown,Cappuccino,Drink,1,4.5,0,card,37,3,
+1240,2026-06-25,10,Downtown,Cold Brew,Drink,3,5.0,5,card,31,4,
+1390,2026-06-25,9,Harbor,Cappuccino,Drink,1,4.5,0,card,44,,birthday
+1010,2026-06-25,9,Uptown,Bagel,Food,2,4.0,0,mobile,39,,
+1035,2026-06-25,6,Harbor,Cappuccino,Drink,1,4.5,0,Mobile,21,,
+1116,2026-06-25,7,Harbor,Latte,Drink,2,4.75,0,card,26,4,
+1239,2026-06-25,11,Downtown,Latte,Drink,1,4.75,5,card,33,5,
+1190,2026-06-25,7,Airport,Cold Brew,Drink,1,5.0,0,card,48,,
+1112,2026-06-25,7,Downtown,Cappuccino,Drink,2,4.5,0,cash,23,,
+1147,2026-06-26,8,Airport,Espresso,Drink,2,3.25,,card,,,
+1370,2026-06-27,9,Downtown,Latte,Drink,3,4.75,0,cash,36,2,loyalty card
+1265,2026-06-27,8,Downtown,Latte,Drink,3,4.75,5,card,33,,
+1227,2026-06-27,8,Uptown,Espresso,Drink,2,3.25,15,,43,,
+1144,2026-06-27,10,Downtown,Espresso,Drink,4,3.25,0,mobile,42,,
+1098,2026-06-28,7,Uptown,Croissant,Food,2,3.75,0,mobile,23,,
+1280,2026-06-28,10,Airport,Latte,Drink,1,4.75,0,mobile,36,4,
+1219,2026-06-28,13,Airport,Muffin,Food,1,3.5,0,card,26,4,allergy: nuts
+1099,2026-06-28,12,Uptown,Cold Brew,Drink,1,5.0,0,cash,16,4,allergy: nuts
+1087,2026-06-28,10,Uptown,Espresso,Drink,2,3.25,15,mobile,34,4,
+1043,2026-06-28,7,Airport,Latte,Drink,1,4.75,0,cash,33,,complaint: cold
+1028,2026-06-29,6,Airport,Cappuccino,Drink,2,4.5,0,card,,4,oat milk
+1100,2026-06-29,12,Uptown,Cold Brew,Drink,1,5.0,10,card,35,,
+1486,2026-06-29,8,Airport,Espresso,Drink,2,3.25,0,card,20,4,complaint: cold
+1103,2026-06-29,7,Uptown,Espresso,Drink,1,3.25,0,card,53,3,extra hot
+1369,2026-06-29,8,Harbor,Espresso,Drink,3,3.25,0,CARD,29,5,
+1518,2026-06-29,6,Uptown,Cappuccino,Drink,1,4.5,0,mobile,30,3,allergy: nuts
+1360,2026-06-30,14,Harbor,Cappuccino,Drink,1,4.5,10,cash,,,birthday
+Total,,,,,,875,,,,,,

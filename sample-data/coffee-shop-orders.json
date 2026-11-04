@@ -1,0 +1,1260 @@
+[
+  {
+    "orderId": 1371,
+    "date": "2026-05-30",
+    "store": "Harbor",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "silver"
+    },
+    "item": {
+      "product": "Espresso",
+      "units": 2,
+      "unitPrice": 3.25
+    },
+    "tags": [
+      "loyalty card"
+    ]
+  },
+  {
+    "orderId": 1412,
+    "date": "2026-06-07",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "under 25",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Bagel",
+      "units": 2,
+      "unitPrice": 4.0
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1267,
+    "date": "2026-04-04",
+    "store": "Harbor",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Espresso",
+      "units": 1,
+      "unitPrice": 3.25
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1242,
+    "date": "2026-03-15",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "silver"
+    },
+    "item": {
+      "product": "Bagel",
+      "units": 1,
+      "unitPrice": 3.75
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1171,
+    "date": "2026-03-31",
+    "store": "Airport",
+    "customer": {
+      "ageGroup": "under 25",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 3,
+      "unitPrice": 4.5
+    },
+    "tags": [
+      "extra hot"
+    ]
+  },
+  {
+    "orderId": 1422,
+    "date": "2026-03-09",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Espresso",
+      "units": 2,
+      "unitPrice": 3.0
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1455,
+    "date": "2026-02-26",
+    "store": "Harbor",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 2,
+      "unitPrice": 4.5
+    },
+    "tags": [
+      "complaint: cold"
+    ]
+  },
+  {
+    "orderId": 1483,
+    "date": "2026-05-12",
+    "store": "Harbor",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "silver"
+    },
+    "item": {
+      "product": "Bagel",
+      "units": 2,
+      "unitPrice": 4.0
+    },
+    "tags": [
+      "birthday"
+    ]
+  },
+  {
+    "orderId": 1446,
+    "date": "2026-04-08",
+    "store": "Airport",
+    "customer": {
+      "ageGroup": "45 and over",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Bagel",
+      "units": 1,
+      "unitPrice": 4.0
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1237,
+    "date": "2026-04-07",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Cappuccino",
+      "units": 1,
+      "unitPrice": 4.5
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1096,
+    "date": "2026-01-31",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "45 and over",
+      "loyalty": "silver"
+    },
+    "item": {
+      "product": "Cold Brew",
+      "units": 3,
+      "unitPrice": 4.75
+    },
+    "tags": [
+      "allergy: nuts"
+    ]
+  },
+  {
+    "orderId": 1146,
+    "date": "2026-04-15",
+    "store": "Airport",
+    "customer": {
+      "ageGroup": "45 and over",
+      "loyalty": "silver"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 1,
+      "unitPrice": 4.75
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1068,
+    "date": "2026-04-01",
+    "store": "Airport",
+    "customer": {
+      "ageGroup": "45 and over",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 1,
+      "unitPrice": 4.75
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1122,
+    "date": "2026-06-10",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Cold Brew",
+      "units": 1,
+      "unitPrice": 5.0
+    },
+    "tags": [
+      "allergy: nuts"
+    ]
+  },
+  {
+    "orderId": 1112,
+    "date": "2026-06-25",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "under 25",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Cappuccino",
+      "units": 2,
+      "unitPrice": 4.5
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1069,
+    "date": "2026-04-05",
+    "store": "Harbor",
+    "customer": {
+      "ageGroup": "45 and over",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 3,
+      "unitPrice": 4.75
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1177,
+    "date": "2026-03-17",
+    "store": "Harbor",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Cappuccino",
+      "units": 1,
+      "unitPrice": 4.25
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1031,
+    "date": "2026-03-11",
+    "store": "Airport",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Cold Brew",
+      "units": 2,
+      "unitPrice": 4.75
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1429,
+    "date": "2026-01-31",
+    "store": "Harbor",
+    "customer": {
+      "ageGroup": "under 25",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 2,
+      "unitPrice": 4.5
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1026,
+    "date": "2026-06-01",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 1,
+      "unitPrice": 4.75
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1510,
+    "date": "2026-04-04",
+    "store": "Harbor",
+    "customer": {
+      "ageGroup": "under 25",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Croissant",
+      "units": 1,
+      "unitPrice": 3.75
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1071,
+    "date": "2026-01-08",
+    "store": "Airport",
+    "customer": {
+      "ageGroup": "under 25",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Cold Brew",
+      "units": 1,
+      "unitPrice": 4.75
+    },
+    "tags": [
+      "complaint: cold"
+    ]
+  },
+  {
+    "orderId": 1236,
+    "date": "2026-03-12",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 1,
+      "unitPrice": 4.5
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1358,
+    "date": "2026-02-27",
+    "store": "Airport",
+    "customer": {
+      "ageGroup": "under 25",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Croissant",
+      "units": 2,
+      "unitPrice": 3.5
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1271,
+    "date": "2026-04-03",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 1,
+      "unitPrice": 4.75
+    },
+    "tags": [
+      "complaint: cold"
+    ]
+  },
+  {
+    "orderId": 1448,
+    "date": "2026-01-04",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "under 25",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 1,
+      "unitPrice": 4.5
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1059,
+    "date": "2026-06-11",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "silver"
+    },
+    "item": {
+      "product": "Cold Brew",
+      "units": 2,
+      "unitPrice": 5.0
+    },
+    "tags": [
+      "to go"
+    ]
+  },
+  {
+    "orderId": 1274,
+    "date": "2026-03-30",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "silver"
+    },
+    "item": {
+      "product": "Cappuccino",
+      "units": 1,
+      "unitPrice": 4.25
+    },
+    "tags": [
+      "extra hot"
+    ]
+  },
+  {
+    "orderId": 1230,
+    "date": "2026-05-30",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 1,
+      "unitPrice": 4.75
+    },
+    "tags": [
+      "allergy: nuts"
+    ]
+  },
+  {
+    "orderId": 1420,
+    "date": "2026-01-18",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Cappuccino",
+      "units": 1,
+      "unitPrice": 4.25
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1224,
+    "date": "2026-02-02",
+    "store": "Harbor",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "silver"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 3,
+      "unitPrice": 4.5
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1454,
+    "date": "2026-05-20",
+    "store": "Airport",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "silver"
+    },
+    "item": {
+      "product": "Cappuccino",
+      "units": 2,
+      "unitPrice": 4.5
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1291,
+    "date": "2026-01-31",
+    "store": "Harbor",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Croissant",
+      "units": 1,
+      "unitPrice": 3.5
+    },
+    "tags": [
+      "loyalty card"
+    ]
+  },
+  {
+    "orderId": 1161,
+    "date": "2026-01-05",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Cold Brew",
+      "units": 1,
+      "unitPrice": 4.75
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1280,
+    "date": "2026-06-28",
+    "store": "Airport",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "silver"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 1,
+      "unitPrice": 4.75
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1481,
+    "date": "2026-05-18",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Cappuccino",
+      "units": 3,
+      "unitPrice": 4.5
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1473,
+    "date": "2026-04-01",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "45 and over",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 4,
+      "unitPrice": 4.75
+    },
+    "tags": [
+      "oat milk"
+    ]
+  },
+  {
+    "orderId": 1130,
+    "date": "2026-01-16",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "45 and over",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Muffin",
+      "units": 1,
+      "unitPrice": 3.25
+    },
+    "tags": [
+      "loyalty card"
+    ]
+  },
+  {
+    "orderId": 1118,
+    "date": "2026-04-24",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "45 and over",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Croissant",
+      "units": 1,
+      "unitPrice": 3.75
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1289,
+    "date": "2026-05-26",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 1,
+      "unitPrice": 4.75
+    },
+    "tags": [
+      "loyalty card"
+    ]
+  },
+  {
+    "orderId": 1493,
+    "date": "2026-05-27",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Croissant",
+      "units": 1,
+      "unitPrice": 3.75
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1166,
+    "date": "2026-02-10",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 4,
+      "unitPrice": 4.5
+    },
+    "tags": [
+      "oat milk"
+    ]
+  },
+  {
+    "orderId": 1196,
+    "date": "2026-04-21",
+    "store": "Harbor",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Muffin",
+      "units": 2,
+      "unitPrice": 3.5
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1054,
+    "date": "2026-03-12",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Croissant",
+      "units": 1,
+      "unitPrice": 3.5
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1124,
+    "date": "2026-02-25",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Cappuccino",
+      "units": 1,
+      "unitPrice": 4.25
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1297,
+    "date": "2026-01-11",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Muffin",
+      "units": 1,
+      "unitPrice": 3.25
+    },
+    "tags": [
+      "oat milk"
+    ]
+  },
+  {
+    "orderId": 1197,
+    "date": "2026-04-11",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "under 25",
+      "loyalty": "silver"
+    },
+    "item": {
+      "product": "Cold Brew",
+      "units": 1,
+      "unitPrice": 5.0
+    },
+    "tags": [
+      "complaint: cold"
+    ]
+  },
+  {
+    "orderId": 1163,
+    "date": "2026-01-13",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "silver"
+    },
+    "item": {
+      "product": "Muffin",
+      "units": 2,
+      "unitPrice": 3.25
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1296,
+    "date": "2026-01-26",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Muffin",
+      "units": 2,
+      "unitPrice": 3.25
+    },
+    "tags": [
+      "extra hot"
+    ]
+  },
+  {
+    "orderId": 1425,
+    "date": "2026-04-10",
+    "store": "Harbor",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "silver"
+    },
+    "item": {
+      "product": "Espresso",
+      "units": 1,
+      "unitPrice": 3.25
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1167,
+    "date": "2026-05-09",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Muffin",
+      "units": 1,
+      "unitPrice": 3.5
+    },
+    "tags": [
+      "to go"
+    ]
+  },
+  {
+    "orderId": 1145,
+    "date": "2026-06-15",
+    "store": "Airport",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Cappuccino",
+      "units": 1,
+      "unitPrice": 4.5
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1355,
+    "date": "2026-02-28",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "45 and over",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Cappuccino",
+      "units": 1,
+      "unitPrice": 4.25
+    },
+    "tags": [
+      "to go"
+    ]
+  },
+  {
+    "orderId": 1179,
+    "date": "2026-01-27",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "silver"
+    },
+    "item": {
+      "product": "Cold Brew",
+      "units": 2,
+      "unitPrice": 4.75
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1379,
+    "date": "2026-06-20",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "silver"
+    },
+    "item": {
+      "product": "Croissant",
+      "units": 1,
+      "unitPrice": 3.75
+    },
+    "tags": [
+      "extra hot"
+    ]
+  },
+  {
+    "orderId": 1423,
+    "date": "2026-01-23",
+    "store": "Airport",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 1,
+      "unitPrice": 4.5
+    },
+    "tags": [
+      "birthday"
+    ]
+  },
+  {
+    "orderId": 1162,
+    "date": "2026-03-06",
+    "store": "Harbor",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Cappuccino",
+      "units": 2,
+      "unitPrice": 4.25
+    },
+    "tags": [
+      "loyalty card"
+    ]
+  },
+  {
+    "orderId": 1350,
+    "date": "2026-01-20",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 1,
+      "unitPrice": 4.5
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1215,
+    "date": "2026-03-14",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "silver"
+    },
+    "item": {
+      "product": "Espresso",
+      "units": 3,
+      "unitPrice": 3.0
+    },
+    "tags": [
+      "oat milk"
+    ]
+  },
+  {
+    "orderId": 1409,
+    "date": "2026-02-19",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "45 and over",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Muffin",
+      "units": 3,
+      "unitPrice": 3.25
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1459,
+    "date": "2026-04-22",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Espresso",
+      "units": 1,
+      "unitPrice": 3.25
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1098,
+    "date": "2026-06-28",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "under 25",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Croissant",
+      "units": 2,
+      "unitPrice": 3.75
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1480,
+    "date": "2026-01-21",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Muffin",
+      "units": 3,
+      "unitPrice": 3.25
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1433,
+    "date": "2026-05-13",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Croissant",
+      "units": 1,
+      "unitPrice": 3.75
+    },
+    "tags": [
+      "loyalty card"
+    ]
+  },
+  {
+    "orderId": 1368,
+    "date": "2026-04-26",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Croissant",
+      "units": 3,
+      "unitPrice": 3.75
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1220,
+    "date": "2026-05-31",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Muffin",
+      "units": 1,
+      "unitPrice": 3.5
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1343,
+    "date": "2026-05-28",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Croissant",
+      "units": 1,
+      "unitPrice": 3.75
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1262,
+    "date": "2026-05-04",
+    "store": "Airport",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Muffin",
+      "units": 1,
+      "unitPrice": 3.5
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1421,
+    "date": "2026-01-15",
+    "store": "Harbor",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Espresso",
+      "units": 2,
+      "unitPrice": 3.0
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1121,
+    "date": "2026-05-03",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 3,
+      "unitPrice": 4.75
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1282,
+    "date": "2026-05-20",
+    "store": "Airport",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Muffin",
+      "units": 1,
+      "unitPrice": 3.5
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1512,
+    "date": "2026-02-21",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "under 25",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Cold Brew",
+      "units": 1,
+      "unitPrice": 4.75
+    },
+    "tags": [
+      "allergy: nuts"
+    ]
+  },
+  {
+    "orderId": 1101,
+    "date": "2026-04-23",
+    "store": "Harbor",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Muffin",
+      "units": 1,
+      "unitPrice": 3.5
+    },
+    "tags": [
+      "allergy: nuts"
+    ]
+  },
+  {
+    "orderId": 1100,
+    "date": "2026-06-29",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Cold Brew",
+      "units": 1,
+      "unitPrice": 5.0
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1216,
+    "date": "2026-02-18",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Cold Brew",
+      "units": 1,
+      "unitPrice": 4.75
+    },
+    "tags": [
+      "birthday"
+    ]
+  },
+  {
+    "orderId": 1089,
+    "date": "2026-04-12",
+    "store": "Harbor",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "silver"
+    },
+    "item": {
+      "product": "Cold Brew",
+      "units": 2,
+      "unitPrice": 5.0
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1169,
+    "date": "2026-06-02",
+    "store": "Harbor",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Croissant",
+      "units": 3,
+      "unitPrice": 3.75
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1490,
+    "date": "2026-03-25",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "25 to 44",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 2,
+      "unitPrice": 4.5
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1495,
+    "date": "2026-03-23",
+    "store": "Downtown",
+    "customer": {
+      "ageGroup": "under 25",
+      "loyalty": "none"
+    },
+    "item": {
+      "product": "Latte",
+      "units": 1,
+      "unitPrice": 4.5
+    },
+    "tags": []
+  },
+  {
+    "orderId": 1104,
+    "date": "2026-03-28",
+    "store": "Uptown",
+    "customer": {
+      "ageGroup": "45 and over",
+      "loyalty": "gold"
+    },
+    "item": {
+      "product": "Muffin",
+      "units": 2,
+      "unitPrice": 3.25
+    },
+    "tags": []
+  }
+]

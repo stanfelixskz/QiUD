@@ -1,0 +1,65 @@
+name: Bug report
+description: Something does not work, or works in a confusing way.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time. **Please do not attach files that contain private data.** Describe the problem in words, or reproduce it with the [sample data](https://github.com/stanfelixskz/QiUD/tree/main/sample-data).
+  - type: input
+    id: version
+    attributes:
+      label: QiUD version
+      description: The version in the installer's file name, for example 0.4.0.
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      description: For example Windows 11 23H2, 64-bit.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where did it happen?
+      options:
+        - Installing or starting QiUD
+        - Opening a file (CSV, Excel or JSON)
+        - Cleaning
+        - Summary, quality, group-by, correlation or outliers
+        - Charts
+        - Projects or recipes
+        - Report page, preview or export
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead? Copy any message exactly as it appears.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open the sample file coffee-shop-sales.csv
+        2. ...
+  - type: dropdown
+    id: file
+    attributes:
+      label: What kind of file were you using?
+      options:
+        - CSV or text
+        - Excel
+        - JSON
+        - Not about a file
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else
+      description: A screenshot is welcome if it contains no private data.

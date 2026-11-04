@@ -1,0 +1,85 @@
+QiUD - FREEWARE LICENCE AGREEMENT
+Version 1.0, November 2026
+
+Please read this agreement. By installing or using QiUD you accept it. If you do not accept it, do not install or use QiUD.
+
+In this agreement, "QiUD" means the program called QiUD, including its Python engine, its documentation and any updates supplied
+with it. "Licensor" means John Mark Sander P. Escueta, who makes QiUD available. "You" means the person or organisation using QiUD.
+
+
+1. WHAT YOU MAY DO
+
+   You may install and use QiUD, free of charge, on any number of your own computers, for any lawful purpose, including study,
+   research, personal projects and the internal work of your business or organisation.
+
+   You may copy and share the unmodified QiUD installation package (the original zip file) with others, free of charge, as long as
+   this agreement and the third-party notices stay with it.
+
+
+2. WHAT YOU MAY NOT DO
+
+   a) You may not sell, rent, lease or charge for QiUD, or include it in a product or service that is sold, without the Licensor's
+      written permission. Charging only for the cost of copying or delivering it is not a sale.
+   b) You may not modify QiUD, create derivative works from it, or share modified copies.
+   c) You may not reverse engineer, decompile or disassemble QiUD, or try to obtain its source code, except to the extent that the
+      law of the Philippines expressly allows despite this restriction (for example, for interoperability).
+   d) You may not remove or change any copyright, licence or attribution notice in QiUD.
+   e) You may not offer QiUD's functions to other people as an online or hosted service.
+   f) You may not use QiUD to break the law or to infringe anyone's rights.
+
+
+3. OWNERSHIP
+
+   QiUD is licensed to you, not sold. The Licensor keeps all rights in QiUD that this agreement does not expressly give you. The name
+   "QiUD" is not licensed to you for use as a name or mark of your own products or services.
+
+   QiUD includes third-party open-source software. Each part is licensed under its own terms, which are listed in the file
+   THIRD-PARTY-NOTICES.txt and the "licenses" folder installed with QiUD. Nothing in this agreement limits the rights those licences
+   give you for those parts.
+
+
+4. YOUR DATA AND YOUR FILES
+
+   QiUD works on your computer. QiUD itself contains no code that connects to the internet or sends your files, your data or
+   information about your use to the Licensor or anyone else. QiUD does not change the data files you open; it writes only the
+   files you ask it to save (projects, exports, charts and reports) and a small list of recent projects in your user profile.
+
+   You are responsible for your data, for keeping copies of it, and for checking the results QiUD shows you before you rely on them.
+   QiUD reports what it finds and what a step will do; it does not decide whether your data is correct or what a result means.
+
+
+5. NO WARRANTY
+
+   QiUD is provided "AS IS" and "AS AVAILABLE", free of charge, without any warranty of any kind, express or implied, including any
+   warranty of merchantability, fitness for a particular purpose, accuracy or non-infringement, to the fullest extent permitted by
+   law. The Licensor does not promise that QiUD will be free of errors, that it will work with every file, or that it will be kept
+   up to date. The Licensor has no duty to provide support or updates.
+
+
+6. LIMIT OF LIABILITY
+
+   To the fullest extent permitted by law, the Licensor is not liable to you for any loss or damage arising from your use of QiUD or
+   your inability to use it, including lost data, lost profits, lost savings, or indirect, incidental, special or consequential
+   damage, even if the Licensor was told such loss was possible. Because QiUD is free, the Licensor's total liability for any claim
+   is limited to the amount you paid for QiUD, which is zero. Nothing in this agreement excludes liability that the law does not allow
+   to be excluded.
+
+
+7. ENDING THIS AGREEMENT
+
+   This agreement lasts until it ends. It ends automatically if you break any of its terms. You may end it at any time by
+   uninstalling QiUD and deleting all copies. When it ends, you must stop using QiUD and delete your copies. Sections 3, 5, 6, 7 and 8
+   continue after it ends.
+
+
+8. GENERAL
+
+   a) This agreement is governed by the laws of the Republic of the Philippines. The courts of the Philippines have jurisdiction over
+      any dispute about it.
+   b) If any part of this agreement cannot be enforced, the rest still applies.
+   c) This is the whole agreement between you and the Licensor about QiUD. The Licensor may offer a newer version of this agreement
+      with a newer version of QiUD; the version supplied with the QiUD you install is the one that applies to that copy.
+   d) Not insisting on a right under this agreement is not giving it up.
+
+
+Contact: escuetajohn21@gmail.com

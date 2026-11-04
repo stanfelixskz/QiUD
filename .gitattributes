@@ -1,0 +1,7 @@
+# Text files are normalised; the sample data and the example report are kept exactly as they were made.
+* text=auto
+sample-data/* -text
+examples/* -text
+*.png binary
+*.pdf binary
+*.xlsx binary

@@ -1,0 +1,37 @@
+name: Feature request
+description: Suggest something QiUD could do.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before you write, have a look at the [known limits](https://github.com/stanfelixskz/QiUD/blob/main/docs/reference.md#known-limits): the thing you want may be listed there. **Please do not include private data.**
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: Describe your task, not the feature. "I need to compare this month's file with last month's" is more useful than "add a diff button".
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like QiUD to do?
+  - type: textarea
+    id: today
+    attributes:
+      label: How do you do it today?
+      description: In QiUD, in a spreadsheet, or some other way.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Which part of QiUD?
+      options:
+        - Opening files
+        - Cleaning
+        - Analysis
+        - Charts
+        - Projects or recipes
+        - Reports
+        - Installing or updating
+        - Something else
