@@ -1,6 +1,6 @@
 # 2. Clean your data
 
-**You will:** fix every problem found in [tutorial 1](01-open-and-inspect.md), one step at a time, always looking at a preview first. About 25 minutes.
+**You will:** fix every problem found in [tutorial 1](01-open-and-inspect.md), one step at a time, with a preview whenever you want one. About 25 minutes.
 
 **You need:** `coffee-shop-sales.csv` open on the Data page.
 
@@ -10,7 +10,7 @@ All cleaning is in the **Clean** panel on the left of the Data page:
 
 1. Choose what to do from the list, and fill in its settings.
 2. Choose **Preview**. QiUD shows what *would* change, in the **Preview** tab, with the rows before and after, and writes a sentence under the panel such as `Rows: 529 → 527`. **Nothing has changed yet.**
-3. If you like it, choose **Apply**. (**Apply** stays disabled until you have previewed the current settings, so you always look first.)
+3. If you like it, choose **Apply**. (A preview is optional: **Apply** works without one, and **Undo** takes the step back.)
 
 Every applied step is listed under **Changes to working copy**. **Undo** (or `Ctrl+Z`) takes back the last step, **Redo** (`Ctrl+Y`) puts it back, and **Reset to original** takes back all of them. Your file on disk is never touched.
 
@@ -125,6 +125,8 @@ That list is a complete, readable record of what was done to the data. In [tutor
 
 - **Keep only rows with missing values** / **Remove rows with missing values** (in all columns or one): to look at, or drop, the incomplete rows.
 - **Rename a column…**
+- **Remove a column…** takes a column you do not need (such as `customer_note`) out of the working copy. From the Clean list it is previewed first. Right-clicking the header and choosing **Remove this column** does it at once. Either way Undo brings it back.
+- **Right-click a column header** for a menu of what can be done with that column: sort, rename, change type, replace missing values, add a column from it, remove rows where it matches, move it to the start or end, or remove it.
 - **Move a column…** to the start or end, or before or after another column. You can also **drag a column header** in the table to move it. A drag is an ordinary, undoable step.
 
 ## Still unusual: the ages

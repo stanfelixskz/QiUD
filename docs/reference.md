@@ -47,6 +47,7 @@ Your original file is only ever read. QiUD can also be started with a path: `QiU
 | Rename a column… | |
 | Change a column's type… | Text, integer, decimal, true/false, date/time. Shows what cannot convert and warns about lost leading zeros. |
 | Remove rows where… | Up to 10 conditions combined with *all* (AND) or *any* (OR): contains, equals, does not equal, greater than, less than, is empty, is not empty. |
+| Remove a column… | Takes a column out of the working copy. Previewed first, undoable; the file on disk is not changed. **Right-click a header → Remove this column** does it at once, with no preview (Undo takes it back). |
 | Move a column… | Start, end, before or after another column. Also by dragging a column header. |
 | Add a column… | Date part, arithmetic, time between two dates, text operations (incl. patterns), group a number into ranges, join columns. Placed after its source or at the end. |
 
