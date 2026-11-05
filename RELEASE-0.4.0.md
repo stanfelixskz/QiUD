@@ -8,7 +8,7 @@ The first public release of **QiUD**: a free data-analysis workbench for Windows
 
 **`QiUD-0.4.0-Setup.exe`** (about 75 MB). Windows 10 or 11, 64-bit. Nothing else to install.
 
-SHA-256: `ce2c80f4ee5da67a21112d900fe8928aad017b347a74aed791fdb3d3f2319ba2`
+SHA-256: `b7cf2f8130850fba4a5c8d5f7597a02cf5c5eae544f9fc826bc5ae00e7da9a58`
 
 Windows may say "Windows protected your PC" because the program is not code-signed yet. Choose **More info → Run anyway**. [How to check the download](https://github.com/stanfelixskz/QiUD/blob/main/docs/verify-download.md) · [Install guide](https://github.com/stanfelixskz/QiUD/blob/main/docs/install.md)
 
