@@ -133,6 +133,11 @@ The impossible ages (0 and 140) are still there. QiUD never removes a value just
 
 ## Export the cleaned data
 
-**Export CSV** (top of the Data page) writes the *working copy* as a new CSV file. QiUD asks where to save it, and it never overwrites your original.
+**Export data…** (top of the Data page) writes the *working copy*. In the Save dialog choose the type: **CSV**, an **Excel workbook** (`.xlsx`), **JSON** or **JSON Lines**. QiUD never overwrites your original, whatever the type.
+
+- **Excel** gives you one sheet with a bold header row, real numbers and dates, and empty cells for missing values.
+- **JSON** gives a list of records, with every digit of every number kept and `null` for missing values.
+
+If anything could not be written exactly (a very long text, say), the status line tells you. The details are in the [reference](../reference.md#exporting-the-cleaned-data).
 
 **Next:** [3. Explore: group-by, correlation and outliers](03-explore.md)

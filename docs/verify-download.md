@@ -15,7 +15,7 @@ The long value under **Hash** must be the same as the one on the release page (a
 ## Version 0.4.0
 
 ```
-2c77f572945427f0789cf6ffe983fdc57d443f55920efda5240b5e6c2d9b039b  QiUD-0.4.0-Setup.exe
+ce2c80f4ee5da67a21112d900fe8928aad017b347a74aed791fdb3d3f2319ba2  QiUD-0.4.0-Setup.exe
 ```
 
 If the values differ, do not run the file. Download it again from the [Releases page](https://github.com/stanfelixskz/QiUD/releases), and [open an issue](https://github.com/stanfelixskz/QiUD/issues/new/choose) if it still does not match.

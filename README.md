@@ -23,6 +23,7 @@ QiUD is built around one idea: **you stay in control.** It shows what a step wil
 | **Open** | CSV, TSV, Excel (`.xlsx`, `.xlsm`, with a sheet picker that finds the header row) and JSON / JSON Lines (nested fields become columns). |
 | **Inspect** | Sort, filter and search all rows; per-column types and missing counts; a summary of every column; a data-quality check that flags duplicates, numbers or dates stored as text, and mostly-empty columns. |
 | **Clean, with a preview first** | Fill missing values (a value, the mean, the median or the most common value), remove duplicates or rows that match conditions, rename, move and retype columns, and add new columns (date parts, arithmetic, text operations, number ranges, joined columns). Undo, redo, or reset to the original at any time. |
+| **Save the result** | Export the cleaned data as **CSV, Excel (`.xlsx`), JSON or JSON Lines**. Your original file is never overwritten. |
 | **Reuse your work** | Save the cleaning steps as a **recipe** and replay it on next month's file. |
 | **Explore** | Group-by summaries, correlations, and outlier inspection. |
 | **Chart** | Bar (stacked or side by side), line, summary line, area, scatter (coloured and sized by other columns), histogram, box plot, pie, donut, Pareto, averages with error bars and heatmaps. |

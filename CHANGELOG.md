@@ -15,6 +15,7 @@ The first version published here. Earlier development builds were not released. 
 - Fill missing values (a value, mean, median or most common value), remove duplicates, remove rows where conditions match (up to 10, all or any), rename, retype and move columns (including by dragging a header).
 - Add columns: date parts, arithmetic, time between dates, text operations and patterns, number ranges (with open ends), and joined columns.
 - Every step is previewed, recorded, undoable and redoable. Original files are never changed.
+- **Export the cleaned data as CSV, an Excel workbook (`.xlsx`), JSON or JSON Lines.** Excel keeps real number and date types and never turns text into a formula; JSON keeps every digit of every number; anything that could not be written exactly is reported.
 
 **Explore and chart**
 - Group-by summaries, correlation (heatmap, strongest pairs, matrix) and outlier inspection.

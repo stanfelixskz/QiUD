@@ -8,7 +8,7 @@ The first public release of **QiUD**: a free data-analysis workbench for Windows
 
 **`QiUD-0.4.0-Setup.exe`** (about 75 MB). Windows 10 or 11, 64-bit. Nothing else to install.
 
-SHA-256: `2c77f572945427f0789cf6ffe983fdc57d443f55920efda5240b5e6c2d9b039b`
+SHA-256: `ce2c80f4ee5da67a21112d900fe8928aad017b347a74aed791fdb3d3f2319ba2`
 
 Windows may say "Windows protected your PC" because the program is not code-signed yet. Choose **More info → Run anyway**. [How to check the download](https://github.com/stanfelixskz/QiUD/blob/main/docs/verify-download.md) · [Install guide](https://github.com/stanfelixskz/QiUD/blob/main/docs/install.md)
 
@@ -16,6 +16,7 @@ Windows may say "Windows protected your PC" because the program is not code-sign
 
 - **Open** CSV, Excel (with a sheet picker that finds the header row) and JSON files.
 - **Clean with previews:** fill missing values, remove duplicates and matching rows, retype, rename and move columns, add new columns, undo and redo. Your original file is never changed.
+- **Export** the cleaned data as **CSV, Excel (`.xlsx`), JSON or JSON Lines**.
 - **Explore:** a summary, data-quality checks, group-by, correlation and outliers.
 - **Chart:** bar (stacked or side by side), line, summary line, area, scatter, histogram, box plot, pie, donut, Pareto, error bars and heatmaps.
 - **Projects and recipes:** keep your work together and replay cleaning steps on the next file.

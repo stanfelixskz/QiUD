@@ -5,7 +5,7 @@ The short version: **QiUD works on your computer and sends nothing anywhere.**
 ## What QiUD does with your data
 
 - **It reads your files.** CSV, Excel and JSON files you open are read by QiUD's data engine (a Python process that runs on your computer) and held in memory.
-- **It never changes your originals.** Cleaning happens on a working copy. It writes only what you ask it to: a CSV you export, a project, a saved chart, an exported report.
+- **It never changes your originals.** Cleaning happens on a working copy. It writes only what you ask it to: a file you export (CSV, Excel or JSON), a project, a saved chart, an exported report.
 - **It does not upload, share or report anything.** QiUD itself contains no code that connects to the internet, and no analytics, telemetry or crash reporting. (The source was searched for network code and none was found in the program or in its data engine.)
 - **It does not need an account**, and it has no licence server or activation.
 

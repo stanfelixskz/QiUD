@@ -64,7 +64,7 @@ How recipes behave:
 
 ## Keeping your work safe
 
-- Your **original data files are never modified.** The working copy lives in memory until you **Export CSV**.
+- Your **original data files are never modified.** The working copy lives in memory until you **Export data…**.
 - **Undo and redo** apply within the current session of an open file. The undo stack itself is not saved, but the applied steps are (see above).
 - Two copies of QiUD editing the same project at once is not supported: the last save wins.
 

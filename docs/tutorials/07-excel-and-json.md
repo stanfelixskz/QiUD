@@ -50,6 +50,8 @@ Other things to know:
 - A column that mixes kinds (numbers and the word `"Total"`) is kept as text, and the load message names it.
 - The file must be UTF-8 and is read whole into memory.
 
+**Cleaned JSON can be saved as JSON again.** Use **Export data…** and choose **JSON** (or **JSON Lines**). The nested fields come out flat: a column called `customer.ageGroup` is written as one key with that name, not rebuilt as an object inside `customer`.
+
 From here everything works as before: [clean it](02-clean-your-data.md), [chart it](04-charts.md), [report on it](06-build-a-report.md).
 
 ## CSV details worth knowing

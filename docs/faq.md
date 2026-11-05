@@ -12,7 +12,10 @@ No. The source code is not published. This repository holds the documentation, s
 No. QiUD contains no code that connects to the internet. See [Privacy](privacy.md).
 
 **Does it change my files?**
-No. Your original data files are only read. Cleaning happens on a copy in memory; **Export CSV** writes a *new* file.
+No. Your original data files are only read. Cleaning happens on a copy in memory; **Export data…** writes a *new* file.
+
+**Can I save the cleaned data as Excel or JSON?**
+Yes. **Export data…** on the Data page saves CSV, an Excel workbook (`.xlsx`), JSON or JSON Lines: choose the type in the Save dialog. See [Exporting](reference.md#exporting-the-cleaned-data).
 
 **Why does Windows say "Windows protected your PC"?**
 QiUD is not code-signed, so Windows treats it as coming from an unknown publisher. That is about the publisher, not a problem found in the file. Choose **More info → Run anyway**, and if you like, [check the download's SHA-256](verify-download.md).

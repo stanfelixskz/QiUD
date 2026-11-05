@@ -13,7 +13,7 @@ A complete list of what QiUD does, and what it does not. For a guided introducti
 | **Close project** | Saves and closes the open project (needs one to be open). |
 | **Dark mode** | The switch at the bottom left. Changes the whole app, including charts. |
 
-Toolbar on the Data page: **Open file**, **Export CSV**, **Undo**, **Redo**, **Reset to original**, and **Check Python** (see [troubleshooting](faq.md#troubleshooting)).
+Toolbar on the Data page: **Open file**, **Export data…**, **Undo**, **Redo**, **Reset to original**, and **Check Python** (see [troubleshooting](faq.md#troubleshooting)).
 
 Keyboard: `Ctrl+Z` undo, `Ctrl+Y` redo, `Enter` in the search box searches.
 
@@ -50,9 +50,27 @@ Your original file is only ever read. QiUD can also be started with a path: `QiU
 | Move a column… | Start, end, before or after another column. Also by dragging a column header. |
 | Add a column… | Date part, arithmetic, time between two dates, text operations (incl. patterns), group a number into ranges, join columns. Placed after its source or at the end. |
 
-Every step is recorded, listed under **Changes to working copy**, and can be undone and redone. **Reset to original** takes back all of them. **Export CSV** writes the working copy and never overwrites the original.
+Every step is recorded, listed under **Changes to working copy**, and can be undone and redone. **Reset to original** takes back all of them. **Export data…** writes the working copy as CSV, Excel, JSON or JSON Lines and never overwrites the original (see [Exporting](#exporting-the-cleaned-data)).
 
 Text patterns (regular expressions) refuse patterns that repeat a repeated group, such as `(a+)+`, and patterns longer than 500 characters, because those can take a very long time.
+
+## Exporting the cleaned data
+
+**Export data…** (top of the Data page) saves the *working copy*: your data with every applied step. QiUD asks where to save it, and **the file type is chosen in the Save dialog** (or by the extension you type). It never overwrites the file you opened, whatever the format.
+
+| Type | Extension | What you get |
+|---|---|---|
+| **CSV** | `.csv` | UTF-8, one line per row. Numbers are written in their plain form (`1.50` becomes `1.5`). |
+| **Excel workbook** | `.xlsx` | One sheet named `Data`, with a bold header row that stays in view, readable column widths, and real cell types: numbers are numbers, dates are dates (shown as a date when there is no time), true/false are true/false. Missing values are empty cells. A text that starts with `=` stays text and is never turned into a formula. |
+| **JSON** | `.json` | A list of records, one per line. Numbers keep every digit, accents are written as they are, missing values are `null`, dates are text such as `2026-01-02`, and the column order is kept. |
+| **JSON Lines** | `.jsonl` | One record per line, for tools that read a file a record at a time. |
+
+Things to know:
+
+- **Nested JSON is not rebuilt.** A column that was `customer.ageGroup` when you opened a JSON file is written as one key with that name, not as a nested object. Lists that were kept as text stay text.
+- **Excel limits.** A worksheet holds at most 1,048,575 rows of data and 16,384 columns. A table that is bigger is refused *before* anything is written, with a suggestion to use CSV or JSON or to filter the data first.
+- **Anything changed on the way is reported.** If a value could not be written exactly (a text longer than Excel's 32,767-character limit is cut; characters Excel cannot store are removed; a whole number with more than 15 digits keeps only 15 significant digits in Excel; a value that is infinity becomes empty or `null`), the status line says how many values and why. Nothing is changed silently.
+- The file is written to a temporary name first, so a failed export never leaves a half-written file.
 
 ## Exploring
 
@@ -99,6 +117,7 @@ These are things QiUD does not do, or does within a limit. They are listed so yo
 
 **Files**
 - Excel: one sheet at a time; formulas read as the values last saved.
+- Export: an Excel workbook holds at most 1,048,575 rows and 16,384 columns. Nested JSON is written flat (`customer.ageGroup` stays one key).
 - JSON: UTF-8 only; lists inside records are kept as text, not exploded into rows; only one list is used from a wrapper object; whole-number floats such as `2.0` and `2` are not told apart.
 
 **Projects and reports**
